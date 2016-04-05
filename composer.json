@@ -1,0 +1,23 @@
+{
+    "name": "rohnstock/leaflet-marker-cluster",
+    "description": "Marker Clustering plugin for Leaflet",
+    "type": "component",
+    "homepage": "https://github.com/Leaflet/Leaflet.markercluster",
+    "license": "MIT",
+    "keywords": [
+        "charts"
+    ],
+    "author": {
+        "url": "http://leafletjs.com/",
+        "name": "Leaflet"
+    },
+    "extra": {
+        "component": {
+            "files": [
+                "js/leaflet.markercluster.js",
+                "css/MarkerCluster.css",
+                "css/MarkerCluster.Default.css"
+            ]
+        }
+    }
+}
