@@ -14,7 +14,7 @@
     "extra": {
         "component": {
             "files": [
-                "js/leaflet.markercluster.js",
+                "js/MarkerCluster.js",
                 "css/MarkerCluster.css",
                 "css/MarkerCluster.Default.css"
             ]
